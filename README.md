@@ -1,2 +1,2 @@
 # Sorting-Algorithms-Time-Analysis
-Algorithm
+This project analyzes 7 different sorting algorithms which are Bubble, Selection, Insertion, Merge, Quick, Count, and Heap Sort. Each of these include 6 arrays with respective sizes of 100, 200, 300, 400, 500, 1000. The arrays are filled in with random numbers to get sorted. For each sorting algorithm, the time is taken for each size array for when the array is randomized, sorted, and reverse sorted. Afterwards, the data for randomized, sorted, and reverse sorted arrays are graphed each with it's own data so 3 graphs are shown. Each graph respectively compares the time between the different sorting algorithms.
